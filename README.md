@@ -1,104 +1,118 @@
-<!-- ⚔️ WARRIOR PROFILE HEADER -->
-<h1 align="center">⚔️ Hi, I'm Abhishek Pyakurel</h1>
-<h3 align="center">Backend Architect | MERN Specialist | NestJS Engineer | System Builder</h3>
+<!-- ⚔️ WARRIOR HEADER -->
+<h1 align="center">⚔️ Abhishek Pyakurel ⚔️</h1>
+
+<h3 align="center">
+🚀 Backend Architect | MERN Specialist | NestJS Engineer | React Native App Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=I+Engineer+Scalable+Backend+Systems;I+Build+High-Performance+Mobile+Apps;Security+First+Architecture;Clean+Modular+Production+Code;Built+For+Scale+🚀" />
+</p>
 
 <p align="center">
   <b>“I don’t just build apps. I engineer scalable systems.”</b>
 </p>
 
-<!-- Profile Views -->
-<p align="center"> 
-    <img 
-    src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Warrior%20Views&color=8A2BE2&style=flat" 
-    height="35"
-    width="200"/> 
-</p>
+---
 
-<!-- GitHub Stats -->
+<!-- PROFILE VIEWS -->
 <p align="center">
-    <img align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=abhishekpyakurel&label=Warrior%20Views&color=8A2BE2&style=flat" />
 </p>
-
-<!-- About Section -->
-## 🧠 The Mission
-
-Full-Stack Developer from Nepal 🇳🇵  
-Focused on building:
-
-- 🔐 Secure authentication systems (JWT, RBAC, OTP)
-- 🏗️ Scalable backend architectures
-- 🚌 Smart infrastructure systems (QR/NFC, GPS, fare engines)
-- 🛒 High-performance eCommerce APIs
-- 🧠 AI-integrated platforms
-
-I specialize in writing **clean, modular, production-grade code** designed for real-world scale.
 
 ---
 
-## 🛡️ Core Tech Arsenal
+<!-- GITHUB STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekpyakurel&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpyakurel&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-### ⚔️ Frontend
-- React.js
-- Next.js
-- React Native
-- Tailwind CSS
+---
+
+## 🧠 THE MISSION
+
+🇳🇵 Full-Stack & Mobile Engineer from Nepal  
+
+I design and engineer complete ecosystems — from scalable backend infrastructure to high-performance mobile applications.
+
+### 🎯 What I Engineer:
+
+- 🔐 JWT + RBAC + OTP Authentication Systems  
+- 🏗️ Modular NestJS Architectures  
+- 📱 Production-Grade React Native Apps  
+- 🚌 Smart Infrastructure (QR/NFC + GPS + Fare Engines)  
+- 🛒 High-Performance eCommerce APIs  
+- 📊 Admin Dashboards with Logs & Analytics  
+- 🧠 AI-Integrated Platforms  
+
+---
+
+## 🛡️ CORE TECH ARSENAL
+
+### ⚔️ Frontend & Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind" />
+</p>
 
 ### 🏹 Backend Engineering
-- Node.js
-- Express.js
-- NestJS (Modular Architecture)
-- REST APIs
-- GraphQL
-- Secure Authentication Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
+</p>
 
 ### 🗄️ Data & Performance
-- MongoDB
-- PostgreSQL
-- Redis
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+</p>
 
-### 🧩 CMS & Infrastructure
-- Payload CMS
-- Docker
-- Linux
-- Git & CI/CD
-
----
-
-## ⚡ Engineering Principles
-
-- Security First  
-- Scalable by Default  
-- Clean Architecture  
-- Performance Optimization  
-- Structure Over Chaos  
+### 🧩 DevOps & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git" />
+</p>
 
 ---
 
-## 🏗️ Systems I’ve Built
+## ⚡ ENGINEERING PRINCIPLES
 
-- 🚌 Smart Bus Pass Backend (NFC + GPS + Fare Logic)
-- 💳 Card-based Transaction Systems
-- 📊 Admin Panels with Logs & Analytics
-- 🔐 Role-Based Authentication APIs
-- 🛒 Real-Time Order Processing Systems
-
----
-
-## 📈 Current Focus
-
-- Advanced NestJS Architecture  
-- PostgreSQL Performance Optimization  
-- Distributed Systems Design  
-- Enterprise Backend Engineering  
+✔ Security First  
+✔ Scalable by Default  
+✔ Clean Architecture  
+✔ Performance Optimization  
+✔ Structure Over Chaos  
 
 ---
 
-## 📫 Connect With Me
+## 🏗️ SYSTEMS BUILT
 
-- 💼 LinkedIn: (Add your link)
-- 🌍 Portfolio: (Add your link)
-- 📧 Email: (Add your email)
+- 🚌 Smart Bus Pass Backend (NFC + GPS + Fare Logic)  
+- 💳 Card-Based Transaction Engine  
+- 📊 Admin Panels with Logs & Analytics  
+- 🔐 Role-Based Authentication APIs  
+- 🛒 Real-Time Order Processing Systems  
+- 📱 React Native Production Apps  
+
+---
+
+## 📈 CURRENT FOCUS
+
+- 🧠 Advanced NestJS Architecture  
+- 🗄️ PostgreSQL Performance Optimization  
+- 🌐 Distributed Systems Design  
+- 🏢 Enterprise Backend Engineering  
+- 📱 Scalable Mobile App Architecture  
+
+---
+
+## 🌍 CONNECT WITH ME
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
