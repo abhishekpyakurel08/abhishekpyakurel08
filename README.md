@@ -1,113 +1,107 @@
-# abhishekpyakurel08
-⚔️ Abhishek Pyakurel
-The Backend Architect Who Builds Systems — Not Just Apps
+<!-- ⚔️ WARRIOR PROFILE HEADER -->
+<h1 align="center">⚔️ Hi, I'm Abhishek Pyakurel</h1>
+<h3 align="center">Backend Architect | MERN Specialist | NestJS Engineer | System Builder</h3>
 
-🚀 Full-Stack Developer | MERN Stack Specialist | NestJS Architect | PostgreSQL Engineer
+<p align="center">
+  <b>“I don’t just build apps. I engineer scalable systems.”</b>
+</p>
 
-🧠 Philosophy
+<!-- Profile Views -->
+<p align="center"> 
+    <img 
+    src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Warrior%20Views&color=8A2BE2&style=flat" 
+    height="35"
+    width="200"/> 
+</p>
 
-Discipline in code.
-Precision in architecture.
-Scalability by design.
+<!-- GitHub Stats -->
+<p align="center">
+    <img align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-I don’t just build applications.
-I engineer secure, scalable, production-grade systems designed to survive real-world traffic, complex business logic, and growth.
+<!-- About Section -->
+## 🧠 The Mission
 
-🛡️ Core Arsenal
-⚔️ Frontend Command
+Full-Stack Developer from Nepal 🇳🇵  
+Focused on building:
 
-React.js
+- 🔐 Secure authentication systems (JWT, RBAC, OTP)
+- 🏗️ Scalable backend architectures
+- 🚌 Smart infrastructure systems (QR/NFC, GPS, fare engines)
+- 🛒 High-performance eCommerce APIs
+- 🧠 AI-integrated platforms
 
-Next.js
+I specialize in writing **clean, modular, production-grade code** designed for real-world scale.
 
-React Native
+---
 
-Tailwind CSS
+## 🛡️ Core Tech Arsenal
 
-State Management (Redux / Zustand)
+### ⚔️ Frontend
+- React.js
+- Next.js
+- React Native
+- Tailwind CSS
 
-🏹 Backend Warfare
+### 🏹 Backend Engineering
+- Node.js
+- Express.js
+- NestJS (Modular Architecture)
+- REST APIs
+- GraphQL
+- Secure Authentication Systems
 
-Node.js
+### 🗄️ Data & Performance
+- MongoDB
+- PostgreSQL
+- Redis
 
-Express.js
+### 🧩 CMS & Infrastructure
+- Payload CMS
+- Docker
+- Linux
+- Git & CI/CD
 
-NestJS (Modular Architecture)
+---
 
-RESTful API Engineering
+## ⚡ Engineering Principles
 
-JWT & Role-Based Access Control
+- Security First  
+- Scalable by Default  
+- Clean Architecture  
+- Performance Optimization  
+- Structure Over Chaos  
 
-OTP & Secure Authentication Systems
+---
 
-🗄️ Data Stronghold
+## 🏗️ Systems I’ve Built
 
-MongoDB (Mongoose)
+- 🚌 Smart Bus Pass Backend (NFC + GPS + Fare Logic)
+- 💳 Card-based Transaction Systems
+- 📊 Admin Panels with Logs & Analytics
+- 🔐 Role-Based Authentication APIs
+- 🛒 Real-Time Order Processing Systems
 
-PostgreSQL (Relational Precision)
+---
 
-Redis (Performance Optimization)
+## 📈 Current Focus
 
-🧩 CMS & Infrastructure
+- Advanced NestJS Architecture  
+- PostgreSQL Performance Optimization  
+- Distributed Systems Design  
+- Enterprise Backend Engineering  
 
-Payload CMS (Custom & Headless CMS Systems)
+---
 
-Docker
+## 📫 Connect With Me
 
-Linux Environment
+- 💼 LinkedIn: (Add your link)
+- 🌍 Portfolio: (Add your link)
+- 📧 Email: (Add your email)
 
-Git & Version Control
+---
 
-🏗️ Systems I Build
-
-🔐 Enterprise Authentication Systems
-
-🚌 Smart Bus Pass Infrastructure (QR/NFC, GPS, Fare Engine)
-
-💳 NFC Card Processing Backends
-
-🛒 Scalable eCommerce APIs (Real-time Order Flow)
-
-📊 Admin Dashboards with Logs & Analytics
-
-🧠 AI-Integrated Web Platforms
-
-📈 Current Mission
-
-Mastering advanced backend architecture with NestJS
-
-Optimizing PostgreSQL for high-load systems
-
-Designing CMS-driven scalable applications
-
-Deepening System Design & Distributed Architecture knowledge
-
-⚡ Coding Principles
-
-Clean & Modular Code
-
-Security First
-
-Performance Focused
-
-Scalable by Default
-
-No Chaos. Only Structure.
-
-🎯 Long-Term Vision
-
-Build systems that:
-
-Scale to millions
-
-Stay secure under pressure
-
-Remain clean after years of iteration
-
-📫 Connect
-
-💼 LinkedIn: (Add your link)
-
-🌍 Portfolio: (Add your link)
-
-📧 Email: (Add your email)
+<p align="center">
+🔥 Code with discipline. Build with precision. Scale without fear. ⚔️
+</p>
