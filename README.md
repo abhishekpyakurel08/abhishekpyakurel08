@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/abhishekpyakurel01/">
-    <img src="https://leetcard.jacoblin.cool/abhishekpyakurel08?theme=dark&font=Karma&ext=heatmap" alt="Abhishek's LeetCode Stats"/>
+    <img src="https://leetcode.com/u/abhishekpyakurel01/" alt="Abhishek's LeetCode Stats"/>
   </a>
 </p>
 
